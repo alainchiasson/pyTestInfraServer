@@ -1,0 +1,15 @@
+APScheduler==3.10.4
+cffi==1.16.0
+cryptography==42.0.1
+dnspython==2.5.0
+idna==3.6
+iniconfig==2.0.0
+packaging==23.2
+pluggy==1.4.0
+pycparser==2.21
+pyOpenSSL==24.0.0
+pytest==7.4.4
+pytest-testinfra==10.0.0
+pytz==2023.3.post1
+six==1.16.0
+tzlocal==5.2
